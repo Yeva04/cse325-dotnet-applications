@@ -1,0 +1,14 @@
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\bin\Debug\net10.0\SalesReportApp.exe
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\bin\Debug\net10.0\SalesReportApp.deps.json
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\bin\Debug\net10.0\SalesReportApp.runtimeconfig.json
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\bin\Debug\net10.0\SalesReportApp.dll
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\bin\Debug\net10.0\SalesReportApp.pdb
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\SalesReportApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\SalesReportApp.AssemblyInfoInputs.cache
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\SalesReportApp.AssemblyInfo.cs
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\SalesReportApp.csproj.CoreCompileInputs.cache
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\SalesReportApp.dll
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\refint\SalesReportApp.dll
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\SalesReportApp.pdb
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\SalesReportApp.genruntimeconfig.cache
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\SalesReportApp\obj\Debug\net10.0\ref\SalesReportApp.dll

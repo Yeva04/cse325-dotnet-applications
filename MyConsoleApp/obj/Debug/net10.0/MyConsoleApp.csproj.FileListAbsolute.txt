@@ -1,0 +1,14 @@
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+D:\YevtechNexus\BYU\Term3-2026\cse325-projects\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll

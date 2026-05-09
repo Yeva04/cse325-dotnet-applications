@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+Total Sales: ₦7,451.25
+
+Details:
+  week1.txt: ₦1,500.50
+  week2.txt: ₦2,750.75
+  week3.txt: ₦3,200.00
