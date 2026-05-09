@@ -54,3 +54,22 @@ static void GenerateSalesSummary(string directoryPath)
     File.WriteAllText(reportPath, report.ToString());
 }
 ```
+# API Evidence Screenshots
+
+## Swagger UI
+![Swagger UI](screenshots/cse325Swagger2.png)
+
+## GET Request
+![GET Request](screenshots/cse325Swagger3.png)
+
+## POST Request
+![POST Request](screenshots/cse325Swaggerpost2.png)
+
+## PUT Request
+![PUT Request](screenshots/cse325Swaggerput2.png)
+
+## DELETE Request
+![DELETE Request](screenshots/cse325Swaggerdel.png)
+
+## Sales Summary Output
+![Sales Summary](screenshots/cse325Swagger.png)
